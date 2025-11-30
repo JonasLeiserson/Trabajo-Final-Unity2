@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Arma
+  - Bala
   layers:
   - Default
   - TransparentFX
